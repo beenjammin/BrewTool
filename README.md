@@ -1,2 +1,2 @@
 # BrewTool
-Assitant to the Brewer
+Assistant to the Brewer
